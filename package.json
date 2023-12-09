@@ -1,10 +1,11 @@
 {
   "name": "css-purifier",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "files": [
     "dist"
   ],
+  "repository": "https://github.com/Lootjs/vite-plugin-css-purifier",
   "description": "Vite plugin for purification css files",
   "main": "./dist/css-purifier.js",
   "module": "./dist/css-purifier.js",
