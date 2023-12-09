@@ -1,7 +1,7 @@
 {
   "name": "css-purifier",
   "type": "module",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "files": [
     "dist"
   ],
@@ -35,7 +35,7 @@
   "peerDependencies": {
     "@rollup/plugin-typescript": "^11.1.5",
     "purgecss": "^5.0.0",
-    "rollup": "^4.7.0",
+    "rollup": "^2.79.1",
     "typescript": "^5.3.3"
   }
 }
