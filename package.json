@@ -11,6 +11,7 @@
   "module": "./dist/css-purifier.js",
   "exports": {
     ".": {
+      "types": "dist/css-purifier.d.ts",
       "import": "./dist/css-purifier.js"
     }
   },
@@ -26,7 +27,7 @@
     "@rollup/plugin-typescript": "^11.1.5",
     "@types/node": "^20.10.4",
     "purgecss": "^5.0.0",
-    "rollup": "^4.7.0",
+    "rollup": "^2.79.1",
     "rollup-plugin-dts": "^6.1.0",
     "tslib": "^2.6.2",
     "typescript": "^5.3.3"
